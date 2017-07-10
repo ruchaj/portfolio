@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:aqua;">
+<head>
+<title> My Music Tastes </title>
+</head>
+<body>
+<H1> My Music! </H1>
+<p> I love music quite a bit. Here is some of my favorite songs</p>
+var songs = ["DJ's Got Us Falling In Love Again", "Nagada Sang Dhol", "I'm Yours"]
+<p> Song Rec: Determinate from Lemonade Mouth </p>
+</body>
+</html>
